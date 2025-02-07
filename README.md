@@ -1,7 +1,7 @@
 # Ejercicio complementario
 
 ## Hecho por
-* Tomas Armando Campos Lopez - CL231461
+* Tomás Armando Campos López - CL231461
 *
 *
 *
